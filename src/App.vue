@@ -8,7 +8,7 @@ import TheWelcome from "./components/TheWelcome.vue";
     <img
       alt="Vue logo"
       class="logo"
-      src="./assets/logo.svg"
+      src="https://placekitten.com/200"
       width="125"
       height="125"
     />
